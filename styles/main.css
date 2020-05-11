@@ -21,7 +21,7 @@ h1 {
 }
 
 main {
-  max-width: 900px;
+  max-width: 100%;
 }
 
 .project-description {
